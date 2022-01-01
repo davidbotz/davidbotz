@@ -1,3 +1,12 @@
+```WELCOME TO PROFIE```
+      ```VIDZ```
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/1O29YP2ZQn4"><img src="https://e.top4top.io/p_2192i93v60.jpg" />
+</p>
+
 # ```VIDZZ-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
@@ -22,15 +31,15 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## `WHATSAPP ViDZZ`
+## `WHATSAPP VIDZZ`
 
 [`Click Here`](http://bit.ly/WAVidzz)
 
 ## `CREATOR`
 
 - Owner number [Here](http://bit.ly/WAVidzz)
-- Owner name [Here](http://bit.ly/WAVidzz)
-- Botname [Here](http://bit.ly/WAVidzz)
+- Owner name ```(VIDZZ)```
+- Botname ```(VIDZZBOTZ)```
 
 ## `CHANGE DYNO`
 
@@ -53,19 +62,20 @@ Off in web nya
 </p>
 
 
-## ```COFFEE```
+## ```DONASI```
 
 - [`SAWERIA`](http://bit.ly/DonasiVidzz)
 
 ## ```GROUP SUPPORT```
 
-- [`Vidz 亗`](https://chat.whatsapp.com/DIribBkFIldK351D87Fwgc)
+- [`BOT WANGSAFF`](https://chat.whatsapp.com/DIribBkFIldK351D87Fwgc)
+- [`MEME INDONESIA`](https://chat.whatsapp.com/IKKjv1CtqiI7Yz2ExvOFai)
 
 ## `THANKS TO`
 
 - Allah SWT.
 - Arda
-- Vidzz
+- Vidzz (```Gwehj```)
 - My parents
 - All Friends
 - All Creator Bot
