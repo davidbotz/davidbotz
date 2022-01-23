@@ -16,7 +16,7 @@
 <p 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20davidbotz%20&image=https://telegra.ph/file/f774127835a01b3f4b910.png&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=ff_vidzz5&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=davidbotz&description=DOOOR,%20WELCOME%20TO%20github%20davidbotz%20&image=https://telegra.ph/file/f774127835a01b3f4b910.png&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=ff_vidzz5&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
 
